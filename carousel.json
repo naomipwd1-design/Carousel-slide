@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/slide1.jpg",
+    "title": "Freshly Brewed Ideas",
+    "description": "Discover the aroma of innovation with every sip of our design process."
+  },
+  {
+    "image": "images/slide2.jpg",
+    "title": "User-Centered Delight",
+    "description": "Crafting interfaces that feel like home—intuitive, warm, and inviting."
+  },
+  {
+    "image": "images/slide3.jpg",
+    "title": "Responsive by Nature",
+    "description": "From mobile to desktop, your brand shines across every screen."
+  }, 
+  {
+    "image": "images/slide4.jpg",
+    "title": "Color That Connects",
+    "description": "Every hue tells a story—evoke emotion through intentional palette choices."
+  },
+  {
+    "image": "images/slide5.jpg",
+    "title": "Accessibility First",
+    "description": "Designing for everyone means designing with empathy, clarity, and purpose."
+  },
+  {
+    "image": "images/slide6.jpg",
+    "title": "Microinteractions Matter",
+    "description": "Delight users with subtle animations that guide, reassure, and engage."
+  },
+  {
+    "image": "images/slide7.jpg",
+    "title": "Brand-Driven Layouts",
+    "description": "Structure meets soul—layouts that reflect your identity and values."
+  },
+  {
+    "image": "images/slide8.jpg",
+    "title": "Scalable Components",
+    "description": "Reusable, modular, and future-proof—code that grows with your vision."
+  },
+  {
+    "image": "images/slide9.jpg",
+    "title": "Emotional Storytelling",
+    "description": "Turn pixels into poetry—connect through narrative and visual rhythm."
+  },
+  {
+    "image": "images/slide10.jpg",
+    "title": "Feedback Fuels Growth",
+    "description": "Iterate with intention—every comment is a chance to refine and elevate."
+  }
+]
